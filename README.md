@@ -79,3 +79,16 @@ FUNCODE runs **100% in the browser** — simply copy the client script and paste
   script.src = 'https://your-hosted-client.js';
   document.body.append(script);
 })();
+
+
+## 📎 Notes
+
+- **Admin and moderator powers** are session-based and enforced client-side.
+- This project is under **active development** — expect improvements!
+
+---
+
+## 🎉 Special Thanks
+
+Shoutout to everyone experimenting with **decentralized** and **browser-native** tools.  
+Keep building fun stuff.
