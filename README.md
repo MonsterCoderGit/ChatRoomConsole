@@ -78,7 +78,7 @@ FUNCODE runs **100% in the browser** — simply copy the client script and paste
   const script = document.createElement('script');
   script.src = 'https://your-hosted-client.js';
   document.body.append(script);
-})();
+})();```
 
 
 ## 📎 Notes
